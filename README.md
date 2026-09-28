@@ -96,10 +96,7 @@ COVID-19_Data_Analysis_Python/
 ├── COVID-19_Data_Analysis_Python.ipynb
 ├── README.md
 ├── requirements.txt
-├── .gitignore
-│
-└── data/
-    └── covid_19_dataset.xlsx
+
 ```
 
 ## How to Run
